@@ -1,0 +1,4 @@
+pip install flask
+pip show flask
+pip install flask-cors
+pip install requests

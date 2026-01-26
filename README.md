@@ -80,6 +80,8 @@ Weather_Mapper is a learning-focused project that demonstrates how to combine Fl
 **Gowjesh**  
 A learning project focused on API integration, Flask development, and map-based weather visualization.
 
+---
+
 ## Output Preview
 
 <img width="547" height="397" alt="image" src="https://github.com/user-attachments/assets/26ce3e5f-7d0a-4e3f-a4a8-63f204724448" />
